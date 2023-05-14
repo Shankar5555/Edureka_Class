@@ -1,0 +1,58 @@
+Coding Environment
+> Text Editor -> VS Studio
+> Node JS (Install)
+> GitBash 
+
+Configure your Git username/email
+Open the command line.
+Set your username:      git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+
+Application 
+----------------
+Zomato (my choice) => 40% marks
+profile webiste - portfolio => 5 % mark
+Assignments => 15% 
+Task => 15%
+class perfermance - 20% (maintance desiplain )
+
+
+
+Extention for vs code
+----------------------
+> vs code icon
+> spellcheck
+> live server
+> tabnine
+> gitlens
+> githistory
+
+
+
+Frontend - 1 (webiste)
+---------------
+HTML - row structure - static
+CSS - look and feel (design)- static
+Bootstrap - Framework
+javascript - Dynamic
+
+Frontend - 2 (web app)
+-----------------
+React - Dynamic
+
+BackEnd
+-------
+Nodejs
+MongoDB
+
+
+MERN
+MongoDB | Express js | React JS | Nodejs
+
+
+MEAN
+MongoDB | Express js | Anguler | Nodejs
+
+
+
